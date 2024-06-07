@@ -43,7 +43,9 @@ Here are some ideas to get you started:
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/rawanabuzaid20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rawan-Ahmed-Mostafa" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rawanabuzaid20" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rawan-Ahmed-Mostafa" height="30" width="40" />
+</a>
 </p>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
